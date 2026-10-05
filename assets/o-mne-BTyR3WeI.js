@@ -1,0 +1,1 @@
+var e=`/assets/o-mne-DDohqBP3.jpg`;export{e as t};
